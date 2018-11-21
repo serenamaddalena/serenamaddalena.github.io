@@ -2,3 +2,18 @@ body {
 	font-family: 'Playfair Display', serif;
 	background-color: #F0A49D;
 }
+
+/* Style buttons */
+.btn {
+  background-color: #9DCBE6;
+  border: none;
+  color: white;
+  padding: 6px 20px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: #5FB8EC;
+}
